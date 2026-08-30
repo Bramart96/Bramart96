@@ -1,4 +1,10 @@
-# 👋 Hola, soy Braian Martinez
+<h1 align="center">👋 ¡Hola! Soy Braian Martinez</h1>
+
+<h3 align="center">📊 Data Analytics | 🐍 Python | 🗄️ SQL | ☕ Java | ⚙️ Backend</h3>
+
+<p align="center">
+  🎓 Estudiante de Programación en UTN · 🚀 Construyendo proyectos y creciendo en tecnología
+</p>
 
 ### Programming Student | Data & Backend Development
 
@@ -131,11 +137,13 @@ reales junto a equipos de desarrollo.
 
 ---
 
-## 📫 Contacto
+## 🌐 Conectemos
 
-🌐 Portfolio: https://bramart96.github.io
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bramart96.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-martinez-b9a44590)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braianmartinez96@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/braian-martinez-b9a44590
+## 👀 Visitas al perfil
 
-📧 Email: braianmartinez96@gmail.com
+![Contador de visitas](https://komarev.com/ghpvc/?username=Bramart96&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge)
 
