@@ -1,10 +1,12 @@
-<h1 align="center">👋 ¡Hola! Soy Braian Martinez</h1>
+# 👋 ¡Hola! Soy Braian Martinez
 
-<h3 align="center">📊 Data Analytics | 🐍 Python | 🗄️ SQL | ☕ Java | ⚙️ Backend</h3>
+### 📊 Análisis de datos | 🐍 Python | 🗄️ SQL | ♨️ Java | ⚙️ Backend
 
-<p align="center">
-  🎓 Estudiante de Programación en UTN · 🚀 Construyendo proyectos y creciendo en tecnología
-</p>
+🎓 Estudiante de Programación en UTN · 🚀 Construyendo proyectos y creciendo en tecnología
+
+---
+
+## Estudiante de Programación | Desarrollo de Datos y Backend
 
 ### Programming Student | Data & Backend Development
 
