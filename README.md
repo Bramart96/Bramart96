@@ -2,11 +2,7 @@
 
 ### 📊 Análisis de datos | 🐍 Python | 🗄️ SQL | ♨️ Java | ⚙️ Backend
 
-🎓 Estudiante de Programación en UTN · 🚀 Construyendo proyectos y creciendo en tecnología
-
 ---
-
-## Estudiante de Programación | Desarrollo de Datos y Backend
 
 ### Programming Student | Data & Backend Development
 
