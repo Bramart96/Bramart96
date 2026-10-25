@@ -69,7 +69,7 @@ Sistema de consola en Python que registra solicitudes de vacaciones, valida sald
 
 **Tecnologías:** Python · pandas · openpyxl · Excel
 
-🔗 [Ver repositorio](https://github.com/Bramart96/TPI-Chatbot)
+🔗 [Ver repositorio](https://github.com/Bramart96/gestion-solicitudes-vacaciones)
 
 ---
 
@@ -80,7 +80,7 @@ aplicando conceptos de frontend y backend.
 
 **Tecnologías:** JavaScript · Node.js · Desarrollo Web
 
-🔗 [Ver repositorio](https://github.com/Bramart96/-Global-Academy-Fullstack-Integrador)
+🔗 [Ver repositorio](https://github.com/Bramart96/plataforma-servicios-dev)
 
 ---
 
@@ -91,7 +91,7 @@ utilizando Ubuntu Server y automatización mediante Python.
 
 **Tecnologías:** Ubuntu Server · Linux · Python · Git
 
-🔗 [Ver repositorio](https://github.com/Bramart96/TPI-Virtualizacion)
+🔗 [Ver repositorio](https://github.com/Bramart96/laboratorio-ubuntu-server)
 
 ---
 
