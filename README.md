@@ -64,17 +64,16 @@ orientados a:
 
 ## ⭐ Proyectos destacados
 
-### 🤖 TPI Chatbot
-Aplicación desarrollada en Python como proyecto académico,
-orientada a la gestión de solicitudes mediante una interfaz conversacional.
+### 📅 Gestión de solicitudes de vacaciones
+Sistema de consola en Python que registra solicitudes de vacaciones, valida saldos disponibles y guarda los cambios en Excel. Flujo principal probado.
 
-**Tecnologías:** Python
+**Tecnologías:** Python · pandas · openpyxl · Excel
 
 🔗 [Ver repositorio](https://github.com/Bramart96/TPI-Chatbot)
 
 ---
 
-### 🌐 Full Stack Integrador
+### 🌐 Plataforma de servicios para desarrolladores
 
 Proyecto integrador desarrollado durante mi formación en desarrollo Full Stack,
 aplicando conceptos de frontend y backend.
@@ -85,7 +84,7 @@ aplicando conceptos de frontend y backend.
 
 ---
 
-### 🐧 TPI Virtualización
+### 🐧 Laboratorio de virtualización con Ubuntu Server
 
 Proyecto académico orientado a virtualización y administración de sistemas,
 utilizando Ubuntu Server y automatización mediante Python.
