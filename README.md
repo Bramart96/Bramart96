@@ -4,17 +4,13 @@
 
 ---
 
-### Programming Student | Data & Backend Development
+### Desarrollador en formación | Python · Datos · Backend · Full Stack
 
-Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN,
-con interés profesional en el análisis de datos y el desarrollo de software.
+Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)**, con formación complementaria en **Desarrollo Full Stack y UX/UI**. Trabajo con Python, SQL, Java y herramientas de análisis de datos para construir soluciones y resolver problemas concretos.
 
-Actualmente estoy fortaleciendo mis conocimientos en Python, SQL, Java,
-bases de datos y análisis de datos, mientras desarrollo proyectos que me
-permitan aplicar estos conocimientos a problemas reales.
+En mis repositorios documento aplicaciones de consola, procesamiento y calidad de datos, desarrollo web y laboratorios de infraestructura. Mi foco es presentar **código verificable, instrucciones reproducibles y evidencias reales**, diferenciando los prototipos académicos de los sistemas listos para producción.
 
-También cuento con experiencia en desarrollo Full Stack con JavaScript,
-Node.js y MongoDB.
+Busco oportunidades **Junior/Trainee en desarrollo de software, Python, datos, backend o QA**.
 
 ---
 
@@ -75,12 +71,29 @@ Sistema de consola en Python que registra solicitudes de vacaciones, valida sald
 
 ### 🌐 Plataforma de servicios para desarrolladores
 
-Proyecto integrador desarrollado durante mi formación en desarrollo Full Stack,
-aplicando conceptos de frontend y backend.
+Proyecto académico con interfaz React/Next.js, componentes para explorar servicios y backend Express con rutas de usuarios y autenticación. Integración extremo a extremo pendiente de pruebas.
 
 **Tecnologías:** JavaScript · Node.js · Desarrollo Web
 
 🔗 [Ver repositorio](https://github.com/Bramart96/plataforma-servicios-dev)
+
+---
+
+### 🌍 Gestión y análisis de datos de países
+Aplicación modular en Python con búsquedas, filtros, ordenamiento, estadísticas y persistencia en CSV. Pendiente de nueva prueba funcional.
+
+**Tecnologías:** Python · CSV
+
+🔗 [Ver repositorio](https://github.com/Bramart96/gestion-datos-paises)
+
+---
+
+### 📈 Análisis de ventas con Python
+Procesamiento de ventas por fecha, métricas de negocio y gráfico de evolución. Pendiente de prueba de ejecución actual.
+
+**Tecnologías:** Python · pandas · Matplotlib
+
+🔗 [Ver repositorio](https://github.com/Bramart96/analisis-ventas-python)
 
 ---
 
