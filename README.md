@@ -89,7 +89,7 @@ Aplicación modular en Python con búsquedas, filtros, ordenamiento, estadístic
 ---
 
 ### 📈 Análisis de ventas con Python
-Procesamiento de ventas por fecha, métricas de negocio y gráfico de evolución. Pendiente de prueba de ejecución actual.
+Procesamiento de 366 registros de ventas (2024), métricas de negocio y gráfico de evolución diaria. Ejecución y resultados verificados: total 1.812.114 y promedio 4.951,13.
 
 **Tecnologías:** Python · pandas · Matplotlib
 
