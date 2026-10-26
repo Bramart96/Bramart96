@@ -80,7 +80,7 @@ Proyecto académico con interfaz React/Next.js, componentes para explorar servic
 ---
 
 ### 🌍 Gestión y análisis de datos de países
-Aplicación modular en Python con búsquedas, filtros, ordenamiento, estadísticas y persistencia en CSV. Pendiente de nueva prueba funcional.
+Aplicación modular en Python con búsquedas, filtros, ordenamiento, estadísticas y persistencia en CSV. Filtro por continente, cálculos estadísticos y guardado persistente probados; otras opciones pendientes de prueba exhaustiva.
 
 **Tecnologías:** Python · CSV
 
