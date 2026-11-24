@@ -1,159 +1,67 @@
-# 👋 ¡Hola! Soy Braian Martinez
+# ¡Hola! Soy Braian Martinez 👋
 
-### 📊 Análisis de datos | 🐍 Python | 🗄️ SQL | ♨️ Java | ⚙️ Backend
+**Desarrollo de software | Python · SQL · Java · Full Stack · Data Analytics**
 
----
+Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)** y me formé también en desarrollo Full Stack y UX/UI. Desarrollo proyectos que combinan programación, bases de datos, análisis de información e interfaces web.
 
-### Desarrollador en formación | Python · Datos · Backend · Full Stack
+En este perfil comparto implementaciones, ejercicios técnicos y proyectos académicos con sus respectivos códigos, decisiones de diseño y evidencias. Me interesan especialmente las oportunidades **Junior/Trainee en desarrollo de software, backend, Python, SQL y análisis de datos**.
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)**, con formación complementaria en **Desarrollo Full Stack y UX/UI**. Trabajo con Python, SQL, Java y herramientas de análisis de datos para construir soluciones y resolver problemas concretos.
+## Tecnologías que utilizo
 
-En mis repositorios documento aplicaciones de consola, procesamiento y calidad de datos, desarrollo web y laboratorios de infraestructura. Mi foco es presentar **código verificable, instrucciones reproducibles y evidencias reales**, diferenciando los prototipos académicos de los sistemas listos para producción.
+- **Datos:** Python, pandas, SQL, MySQL, R y Power BI.
+- **Backend:** Java, Node.js, Express y MongoDB.
+- **Frontend:** JavaScript, React, Next.js, HTML, CSS y Tailwind CSS.
+- **Herramientas:** Git, GitHub, Linux, Postman y Figma.
 
-Busco oportunidades **Junior/Trainee en desarrollo de software, Python, datos, backend o QA**.
+## Proyectos destacados
 
----
+### [OriginDev | Plataforma Full Stack](https://github.com/Bramart96/plataforma-servicios-dev)
 
-## 🚀 En qué estoy trabajando
+Construí una interfaz con Next.js y React para explorar perfiles de desarrolladores, con carrusel de tarjetas y carrito. Organicé un backend Express con rutas de autenticación, usuarios y modelado con Mongoose.
 
-Actualmente estoy desarrollando mi portfolio profesional con proyectos
-orientados a:
+**Tecnologías:** React · Next.js · Node.js · Express · MongoDB.
 
-- 📊 Data Analytics
-- 🐍 Python
-- 🗄️ SQL y bases de datos
-- ☕ Java y desarrollo Backend
-- 📈 Visualización y análisis de datos
-- 🍃 MongoDB / NoSQL
+### [Análisis de ventas con Python](https://github.com/Bramart96/analisis-ventas-python)
 
----
-## 🛠️ Tecnologías
+Procesé 366 registros diarios de un dataset comercial de 2024. Calculé indicadores de ventas y representé la evolución temporal con Matplotlib.
 
-### 📊 Data & Analytics
+**Tecnologías:** Python · pandas · Matplotlib.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### [Gestión de solicitudes de vacaciones](https://github.com/Bramart96/gestion-solicitudes-vacaciones)
 
-### ⚙️ Backend & Bases de Datos
+Implementé un simulador de consola que consulta empleados, evalúa solicitudes según el saldo disponible y guarda los movimientos en Excel. Documenté el flujo de aprobación con pruebas funcionales y una captura.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Tecnologías:** Python · pandas · openpyxl · Excel.
 
-### 🌐 Frontend
+### [Gestión de datos de países](https://github.com/Bramart96/gestion-datos-paises)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+Desarrollé una aplicación de consola modular para administrar un CSV de países, con búsquedas, filtros, ordenamientos, validaciones y estadísticas.
 
-### 🧰 Herramientas
+**Tecnologías:** Python · CSV.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### [Laboratorio Ubuntu Server](https://github.com/Bramart96/laboratorio-ubuntu-server)
 
----
+Participé en la configuración de un entorno virtualizado con Ubuntu Server y desarrollé un script de diagnóstico de sistema y conectividad en Python.
 
-## ⭐ Proyectos destacados
+**Tecnologías:** Linux · VirtualBox · Ubuntu Server · Python.
 
-### 📅 Gestión de solicitudes de vacaciones
-Sistema de consola en Python que registra solicitudes de vacaciones, valida saldos disponibles y guarda los cambios en Excel. Flujo principal probado.
+### [Sistema de Gestión Hospitalaria](https://github.com/Bramart96/SistemaGestionHospitalaria-ProgramacionII-UTN)
 
-**Tecnologías:** Python · pandas · openpyxl · Excel
+Modelé entidades, relaciones, validaciones y programación de citas en Java. El programa de comprobación incluido en el proyecto registró 106 verificaciones correctas.
 
-🔗 [Ver repositorio](https://github.com/Bramart96/gestion-solicitudes-vacaciones)
+**Tecnologías:** Java · Programación Orientada a Objetos.
 
----
+## Formación
 
-### 🌐 Plataforma de servicios para desarrolladores
+**Tecnicatura Universitaria en Programación — UTN**  
+En curso.
 
-Proyecto académico con interfaz React/Next.js, componentes para explorar servicios y backend Express con rutas de usuarios y autenticación. Integración extremo a extremo pendiente de pruebas.
+Complemento mi formación con proyectos propios, desarrollo web y prácticas de análisis de datos.
 
-**Tecnologías:** JavaScript · Node.js · Desarrollo Web
+## Contacto
 
-🔗 [Ver repositorio](https://github.com/Bramart96/plataforma-servicios-dev)
+- 🌐 [Portfolio web](https://bramart96.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/braian-martinez-b9a44590)
+- ✉️ [Correo electrónico](mailto:braianmartinez96@gmail.com)
 
----
-
-### 🌍 Gestión y análisis de datos de países
-Aplicación modular en Python con búsquedas, filtros, ordenamiento, estadísticas y persistencia en CSV. Filtro por continente, cálculos estadísticos y guardado persistente probados; otras opciones pendientes de prueba exhaustiva.
-
-**Tecnologías:** Python · CSV
-
-🔗 [Ver repositorio](https://github.com/Bramart96/gestion-datos-paises)
-
----
-
-### 📈 Análisis de ventas con Python
-Procesamiento de 366 registros de ventas (2024), métricas de negocio y gráfico de evolución diaria. Ejecución y resultados verificados: total 1.812.114 y promedio 4.951,13.
-
-**Tecnologías:** Python · pandas · Matplotlib
-
-🔗 [Ver repositorio](https://github.com/Bramart96/analisis-ventas-python)
-
----
-
-### 🐧 Laboratorio de virtualización con Ubuntu Server
-
-Proyecto académico orientado a virtualización y administración de sistemas,
-utilizando Ubuntu Server y automatización mediante Python.
-
-**Tecnologías:** Ubuntu Server · Linux · Python · Git
-
-🔗 [Ver repositorio](https://github.com/Bramart96/laboratorio-ubuntu-server)
-
----
-
-## 🧪 Próximos proyectos
-
-Actualmente estoy construyendo nuevos proyectos para profundizar mi perfil
-en Data & Backend:
-
-📊 **Data Analytics**
-Python · SQL · Power BI
-
-🇦🇷 **Argentina Data Analysis**
-Python · SQL · Estadística
-
-☕ **Java REST API**
-Java · Spring Boot · MySQL
-
-🍃 **MongoDB / NoSQL**
-MongoDB · Modelado de datos · Aggregation Framework
-
----
-
-## 🎓 Formación
-
-**Tecnicatura Universitaria en Programación**  
-Universidad Tecnológica Nacional (UTN)  
-En curso
-
-Además, continúo mi formación mediante proyectos personales,
-prácticas académicas y aprendizaje autodidacta.
-
----
-
-## 🎯 Objetivo profesional
-
-Busco desarrollarme profesionalmente en posiciones Junior relacionadas con
-**Data Analytics, Python, SQL o desarrollo Backend**, donde pueda aplicar
-mis conocimientos técnicos, continuar aprendiendo y participar en proyectos
-reales junto a equipos de desarrollo.
-
----
-
-## 🌐 Conectemos
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bramart96.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-martinez-b9a44590)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braianmartinez96@gmail.com)
-
-## 👀 Visitas al perfil
-
-![Contador de visitas](https://komarev.com/ghpvc/?username=Bramart96&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge)
-
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Bramart96&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
